@@ -1,0 +1,27 @@
+grab-data.sh
+
+grab-head.sh
+
+hasho.sh
+Generates a hash of a file starting with a number of zeros
+
+mkID.sh
+Make a new id block
+
+verify-block.sh:
+checks the block chains integrity
+
+BLOCK          : XSzjiGQYVoME7y2VG0PhxndYusfz13Hv.LOK
+DATA VALID     : [32mPASS(B[m
+LAST BLOCK     : oTX9jQXIdn8w0Wpq0AI1eiuBBrUwAK36.LOK
+LAST VALID     : [32mPASS(B[m
+
+BLOCK          : oTX9jQXIdn8w0Wpq0AI1eiuBBrUwAK36.LOK
+DATA VALID     : [32mPASS(B[m
+LAST BLOCK     : CZNzUleKVPlwelDWRMi8iswYi1K7pnSX.LOK
+LAST VALID     : [32mPASS(B[m
+
+BLOCK          : CZNzUleKVPlwelDWRMi8iswYi1K7pnSX.LOK
+DATA VALID     : [32mPASS(B[m
+LAST BLOCK     : [31mFAIL(B[m
+Genesis Block or FAIL
